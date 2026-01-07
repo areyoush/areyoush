@@ -1,8 +1,9 @@
 <h1 align="center">Aayush Suman</h1>
 
-<p align="center">
-  <strong>building learning systems that can reason, adapt and improve</strong>
-</p>
+<h3 align="center">
+  building intelligent learning systems that reason, adapt, and improve
+</h3>
+
 
 
 
