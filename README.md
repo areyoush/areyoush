@@ -1,5 +1,10 @@
 <h1 align="center">Aayush Suman</h1>
 
+<p align="center">
+  <strong>building learning systems that can reason, adapt and improve</strong>
+</p>
+
+
 
 
 <!--
