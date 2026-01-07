@@ -1,7 +1,7 @@
 <h1 align="center">Aayush Suman</h1>
 
 <h3 align="center">
-  building intelligent learning systems that reason, adapt, and improve
+  building intelligent systems
 </h3>
 
 
