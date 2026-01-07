@@ -1,4 +1,6 @@
-## Aayush Suman
+<h1 align="center">Aayush Suman</h1>
+
+
 
 <!--
 **areyoush/areyoush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
