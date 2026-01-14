@@ -1,7 +1,7 @@
 <h1 align="center">Aayush Suman</h1>
 
 <h3 align="center">
-  building intelligent systems
+  engineer
 </h3>
 
 
