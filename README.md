@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi There, I'm [Aayush!](mailto:sumanaayush9472@gmail.com) 
+
+#### Engineering @Machine Learning, GenAI and Backend Systems
+
+**Programming Languages:** Python, C++, R<br>
+**Frameworks:** FastAPI, TensorFlow, Pytorch<br>
+**Libraries:** NumPy, sci-kit learn, Matplotlib, Seaborn, Pandas<br>
+**Databases:** MySQL, MongoDB<br>
+**Scripting & Tooling:** Shell (Bash), Git
 
 <!--
 **areyoush/areyoush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
