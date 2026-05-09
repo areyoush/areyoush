@@ -2,10 +2,10 @@
 
 #### Engineering @Machine Learning, GenAI and Backend Systems
 
-**Programming Languages:** Python, C++, R<br>
-**Frameworks:** FastAPI, TensorFlow, Pytorch<br>
+**Programming Languages:** Python, Go, C++, R<br>
+**Frameworks:** FastAPI, Gin, TensorFlow, Pytorch<br>
 **Libraries:** NumPy, sci-kit learn, Matplotlib, Seaborn, Pandas<br>
-**Databases:** MySQL, MongoDB<br>
+**Databases:** MySQL, PostgreSQL<br>
 **Scripting & Tooling:** Shell (Bash), Git
 
 <!--
