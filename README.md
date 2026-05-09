@@ -4,7 +4,7 @@
 
 **Programming Languages:** Python, Go, C++, R<br>
 **Frameworks:** FastAPI, Gin, TensorFlow, Pytorch<br>
-**Libraries:** NumPy, sci-kit learn, Matplotlib, Seaborn, Pandas<br>
+**Libraries:** NumPy, scikit-learn, Matplotlib, Seaborn, Pandas<br>
 **Databases:** MySQL, PostgreSQL<br>
 **Scripting & Tooling:** Shell (Bash), Git
 
